@@ -1,0 +1,5 @@
+{
+  "name": "NeoGen Studio",
+  "description": "A high-fidelity, neumorphic playground for testing Gemini 3.0 Image Generation prompts with batch processing capabilities.",
+  "requestFramePermissions": []
+}
